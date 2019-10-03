@@ -1,4 +1,4 @@
 # lab6-repo
 Repo for the week 6 lab.
-Jon Lev
-OUr code will take a users name dand then print it however many times. 
+Leon Pavolotsky, Thomas Halsey, Jon Lev
+We made a program that first asks the user for their name. Next it asks them how many times they want their name printed. It then prints their name that many times. 
